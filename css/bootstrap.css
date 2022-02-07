@@ -1069,15 +1069,15 @@ th {
           box-sizing: border-box;
 }
 html {
-  font-size: 10px;
+  font-size: 10px; //originally 10px
 
   -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
 }
 body {
   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-  font-size: 14px;
+  font-size: 14px; //originally 14px
   line-height: 1.42857143;
-  color: #333;
+  color: $theme-bodycopy; //this is main body copy color, was #333
   background-color: #fff;
 }
 input,
