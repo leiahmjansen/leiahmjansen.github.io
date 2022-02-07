@@ -1,6 +1,6 @@
 html, body { height: 100%; width: 100%; }
 
-body { font-family: 'Libre Franklin', 'Catamaran', 'Open Sans', 'Open Sans', 'Helvetica Neue', Arial, sans-serif; font-size: 17px; line-height: 1.8; }
+body { font-family: 'Libre Franklin', 'Helvetica', Arial, sans-serif; font-weight: 400; font-style: normal; font-size: 17px; line-height: 1.8; }
 
 hr { border-color: #ff6699; border-width: 3px; max-width: 50px; }
 
@@ -10,7 +10,7 @@ a { -webkit-transition: all 0.35s; -moz-transition: all 0.35s; transition: all 0
 
 a:hover, a:focus { color: #ff3377; }
 
-h1, h2, h3, h4, h5, h6 { font-family: 'Libre Baskerville', 'Playfair Display', 'Bentham', Georgia, serif; }
+h1, h2, h3, h4, h5, h6 { font-family: 'Libre Baskerville', Georgia, serif; font-weight: 400; font-style: italic; }
 
 p { font-size: 17px; line-height: 1.8; margin-bottom: 20px; }
 
@@ -28,9 +28,9 @@ aside { padding: 50px 0; }
 
 .no-padding { padding: 0; }
 
-.navbar-default { background-color: white; border-color: transparent; font-family: 'Libre Baskerville', 'Playfair Display', 'Bentham', Georgia, serif; -webkit-transition: all 0.35s; -moz-transition: all 0.35s; transition: all 0.35s; }
+.navbar-default { background-color: white; border-color: transparent; font-family: 'Libre Baskerville', Georgia, serif; font-weight: 400; font-style: italic; -webkit-transition: all 0.35s; -moz-transition: all 0.35s; transition: all 0.35s; }
 
-.navbar-default .navbar-header .navbar-brand { color: #ff6699; font-size: 24px; font-family: 'Libre Baskerville', 'Playfair Display', 'Bentham', Georgia, serif; font-weight: 100; text-transform: none; }
+.navbar-default .navbar-header .navbar-brand { color: #ff6699; font-size: 24px; font-family: 'Libre Baskerville', Georgia, serif; font-weight: 400; font-style: italic; font-weight: 100; text-transform: none; }
 
 .navbar-default .navbar-header .navbar-brand:hover, .navbar-default .navbar-header .navbar-brand:focus { color: #ff3377; }
 
@@ -70,9 +70,9 @@ header .header-content .header-content-inner p { font-weight: 300; color: rgba(2
 
 .portfolio-box .portfolio-box-caption .portfolio-box-caption-content { width: 100%; text-align: left; position: absolute; top: 50%; transform: translateY(-50%); }
 
-.portfolio-box .portfolio-box-caption .portfolio-box-caption-content .project-category, .portfolio-box .portfolio-box-caption .portfolio-box-caption-content .project-name { font-family: 'Libre Baskerville', 'Playfair Display', 'Bentham', Georgia, serif; padding: 0 15px; }
+.portfolio-box .portfolio-box-caption .portfolio-box-caption-content .project-category, .portfolio-box .portfolio-box-caption .portfolio-box-caption-content .project-name { font-family: 'Libre Baskerville', Georgia, serif; font-weight: 400; font-style: italic; padding: 0 15px; }
 
-.portfolio-box .portfolio-box-caption .portfolio-box-caption-content .project-category { font-family: 'Libre Franklin', 'Catamaran', 'Open Sans', 'Open Sans', 'Helvetica Neue', Arial, sans-serif; text-transform: uppercase; font-weight: 300; font-size: 14px; letter-spacing: 3px; color: #333; }
+.portfolio-box .portfolio-box-caption .portfolio-box-caption-content .project-category { font-family: 'Libre Franklin', 'Helvetica', Arial, sans-serif; font-weight: 400; font-style: normal; text-transform: uppercase; font-weight: 300; font-size: 14px; letter-spacing: 3px; color: #333; }
 
 .portfolio-box .portfolio-box-caption .portfolio-box-caption-content .project-name { font-size: 18px; line-height: 1.2; }
 
@@ -106,7 +106,7 @@ header .header-content .header-content-inner p { font-weight: 300; color: rgba(2
 
 .btn-primary .badge { color: #ff6699; background-color: white; }
 
-.btn { font-family: 'Libre Franklin', 'Catamaran', 'Open Sans', 'Open Sans', 'Helvetica Neue', Arial, sans-serif; border: none; border-radius: 300px; font-weight: 700; text-transform: uppercase; }
+.btn { font-family: 'Libre Franklin', 'Helvetica', Arial, sans-serif; font-weight: 400; font-style: normal; border: none; border-radius: 300px; font-weight: 700; text-transform: uppercase; }
 
 .btn-xl { padding: 15px 30px; }
 
